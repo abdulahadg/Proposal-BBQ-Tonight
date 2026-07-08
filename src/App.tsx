@@ -7,7 +7,7 @@ import React, { useState, useEffect, useRef } from 'react';
 import { motion, AnimatePresence } from 'motion/react';
 import { PRESENTATION_SLIDES } from './types';
 import SlideRenderer from './components/SlideRenderer';
-const bbqTonightLogo = "/src/assets/images/bbq_tonight_logo_v2_1783528326018.jpg";
+const bbqTonightLogo = "/bbq_logo.png";
 import { 
   ChevronLeft, ChevronRight, Play, Pause, RotateCcw, 
   Maximize2, Minimize2, MonitorPlay, BookOpen, 
